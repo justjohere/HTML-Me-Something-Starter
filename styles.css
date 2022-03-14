@@ -1,1 +1,42 @@
-/* Write your CSS here! */
+
+head 
+{
+ font-size: 30px;
+}
+
+.intro{
+  font-size: 30px;
+}
+
+h1 {
+    font-size: 30px; 
+  }
+    
+  .paragraph {
+    font-size: 30px;
+  }
+    
+p {
+  font-size: 30px;
+}
+    
+  
+  h2 {
+    font-size: 30px;
+  }
+  .paragraph2 {
+    font-size: 30px;
+  }
+  
+  h3 {
+    font-size: 30px;
+  }
+  .paragraph3 {
+   font-size: 30px;
+  }
+img {
+    width:800px;
+    height:600px;
+    ;
+    
+}
