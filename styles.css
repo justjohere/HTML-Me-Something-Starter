@@ -1,19 +1,23 @@
-
-head 
-{
- font-size: 30px;
+body {
+  margin:8px;
+  padding: 0;
+  display: block;
 }
-
 .intro{
   font-size: 30px;
 }
+#mainHeading{
+  color: red;
+}
+
 
 h1 {
     font-size: 30px; 
   }
     
-  .paragraph {
+  .funParagraph{
     font-size: 30px;
+    color: green;
   }
     
 p {
